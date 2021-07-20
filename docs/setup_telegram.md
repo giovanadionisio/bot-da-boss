@@ -30,7 +30,7 @@ a porta utilizada pelo no Makefile.
 
 ## Exporte a URL do Webhook 
 
-Enquanto o ngrok estiver em execução, ele apresentará uma série de informações da sessão atual. Copie a url do campo Forwarding com o protocolo HTTPS e cole no [arquivo de configurações do bot](../docker/bot-telegram.env). ela será similar à seguinte.
+Enquanto o ngrok estiver em execução, ele apresentará uma série de informações da sessão atual. Copie a url do campo Forwarding com o protocolo HTTPS e cole no [arquivo de configurações do bot](../env/bot-telegram.env). ela será similar à seguinte.
 
 ```sh
 TELEGRAM_WEBHOOK=link_do_ngrok/webhooks/telegram/webhook
@@ -41,7 +41,7 @@ TELEGRAM_WEBHOOK=link_do_ngrok/webhooks/telegram/webhook
 
 ## Execução do bot no telegram
 
-Ao final de realizar essas configurações, seu [arquivo de configurações do bot](../docker/bot-telegram.env) deve estar de acordo com o exibido logo abaixo:
+Ao final de realizar essas configurações, seu [arquivo de configurações do bot](../env/bot-telegram.env) deve estar de acordo com o exibido logo abaixo:
 
 ```sh
 TELEGRAM_BOT_USERNAME=lappisbot
