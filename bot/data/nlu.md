@@ -3,8 +3,22 @@
 - Ola
 - Oi
 - bom dia
+- booom dia
+- bomdia
 - boa tarde
+- boaa tarde
+- boatarde
 - boa noite
+- boaaa noite
+- boanoite
+- oi bot
+- ola bot
+- oi ola
+- hey 
+- oie
+- oi oi
+- olaaaa
+- oieh
 
 ## intent:despedir
 - tchau
