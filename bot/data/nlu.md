@@ -635,3 +635,20 @@
 - Vc tem algum propósito?
 - Como que vc pode me ser útil?
 - Me fale mais sobre você.
+
+## intent: bots_brasil
+- O que é a [Bots Brasil](bots_brasil)?
+- Me fale sobre a [conferência Bots Brasil](bots_brasil)?
+- O que você sabe sobre a [#ConfBotsBrasil](bots_brasil)?
+- [Conferência Bots Brasil](bots_brasil)
+- [Bots Brasil](bots_brasil)
+- Sobre a [Bots Brasil](bots_brasil), me conte
+- Conversar sobre a [#ConfBotsBrasil](bots_brasil)
+- Me fala da [Bots Brasil](bots_brasil)
+- Me diga da [Conferencia Bots Brasil](bots_brasil)
+- Falando da [Bots Brasil](bots_brasil)
+- Quero falar da [Conferência Bots Brasil](bots_brasil)
+- Como eh a [Bots Brasil](bots_brasil)
+- Gostaria de saber sobre a [ConfBotsBrasil](bots_brasil)
+- Me informe sobre a [BotsBrasil](bots_brasil)
+- Fale-me sobre a [#BotsBrasil](bots_brasil)
