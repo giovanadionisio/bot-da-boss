@@ -153,13 +153,20 @@
 - conhece alguma [piada](piada)
 - [piada](piada)
 - me conte uma [piada](piada)
-- me conta uma piada
+- me conta uma [piada](piada)
 - conte-me uma [piada](piada)
 - manda uma [piada](piada) ai
-- me conta uma coisa engraçada
-- me fala uma piada
+- me conta uma [coisa engraçada](piada)
+- me fala uma [piada](piada)
 - me faz rir
 - vc sabe fazer rir
+- sabe alguma [piada](piada)
+- voce sabe contar [anedota](piada)
+- conhece alguma [piadoca](piada)
+- [piada](piada)
+- me conte uma [lorota](piada)
+- diga uma [coisa engraçada](piada)
+
 
 ## intent:license
 - qual e a sua [licença](license)
